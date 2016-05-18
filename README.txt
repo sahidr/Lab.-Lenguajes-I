@@ -1,4 +1,4 @@
-Uniersidad SImón Bolívar
+Universidad Simón Bolívar
 Departamento de Computación y Tecnología de la Información
 Laboratorio de Lenguajes I
 Integrantes:	Sahid Reyes 10-10603
